@@ -16,3 +16,42 @@ maybe
 [item=Discipline][item=Field Manual][item=Major Health Potion][item=Scholar][item=Silverglow Meditate] maybe?
 
 [item=Effect: Sheen]
+
+
+
+genes ?
+
+not sure how I'd display these
+might or might not make sense to group with other misc things
+
+[b]definitely metallic/alloy[/b]
+[b]wasp (but not bee)[/b]
+
+
+ragged/tear ?
+rattlesnake/diamondback ??
+shell/web ????
+mmaybe wrought/spire
+
+maybe filigree
+maybe flecks
+maybe gembond
+maybe opal
+maybe scales
+maybe veined
+[b]probably angler[/b]
+[b]definitely augment[/b]
+[b]possibly deco?[/b]
+[b]probably harp[/b]
+[b]possibly mist![/b]
+ornaments?
+plating?
+scorpion?
+stinger?
+warrior?
+[b]definitely wraith[/b]
+
+tbh this preliminary list is mostly genes that [i]can[/i] work as steampunk in the right colours, but are not by any means inherently steampunk. I'll have to narrow it down a lot
+
+wait what about colours, actually? copper, bronze and tarnish are practically inherently compatible with this aesthetic.. hmm...
+antique, metals

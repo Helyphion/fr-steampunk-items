@@ -1,0 +1,77 @@
+[center][size=1]nav bar here[/size]
+[img]https://imgur.com/8AgFdvK.png[/img][/center]
+
+[hidden title="GENES › PRIMARY/SECONDARY"][center]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=17&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=17&wings=97&auth=4fb8ef0843bd4b514211a07f44cf2afbcb1c2298&dummyext=prev.png[/img]
+[gamedb item=19567]
+[gamedb item=19569]
+[emoji=modern size=1] [emoji=aether size=1] [emoji=auraboa size=1] [emoji=banescale size=1] [emoji=cirrus size=1] [emoji=undertide size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=20&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=97&auth=7fcade75f73f4d4ec731490680602444a723e992&dummyext=prev.png[/img]
+[gamedb item=24312]
+[emoji=modern size=1] [emoji=aberration size=1] [emoji=aether size=1] [emoji=cirrus size=1] [emoji=dusthide size=1] [emoji=gaoler size=1] [emoji=sandsurge size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=136&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=136&wings=97&auth=a408d7e143eb9956eb21144fdb42ae10ae06e4a4&dummyext=prev.png[/img]
+[gamedb item=48186]
+[gamedb item=48183]
+[emoji=modern size=1] [emoji=aberration size=1] [emoji=aether size=1] [emoji=auraboa size=1] [emoji=banescale size=1] [emoji=sandsurge size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+[/center][/hidden]
+[hidden title="GENES › TERTIARY"][center]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=17&winggene=0&wings=97&auth=592eac55ee48f1778c23685a5cf54e22aa933555&dummyext=prev.png[/img]
+[gamedb item=20108]
+[emoji=modern size=1] [emoji=auraboa size=1] [emoji=dusthide size=1] [emoji=gaoler size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=21&winggene=0&wings=97&auth=e9cafe054334d2585451565f3a1f9e8b55524e67&dummyext=prev.png[/img]
+[gamedb item=26117]
+[emoji=modern size=1] [emoji=banescale size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=103&winggene=0&wings=97&auth=622e2e2618879a70b312212c6999006c390aca0c&dummyext=prev.png[/img]
+[gamedb item=46154]
+[emoji=modern size=1] [emoji=aberration size=1] [emoji=aether size=1] [emoji=sandsurge size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=38&winggene=0&wings=97&auth=89ee85ee30f6b856723ee942bec7770499252b7f&dummyext=prev.png[/img]
+[gamedb item=32216]
+[emoji=modern size=1] [emoji=aberration size=1] [emoji=aether size=1] [emoji=gaoler size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+[/center][/hidden]
+[hidden title="GENES › ANCIENT TERTIARY"][center]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=27&element=8&eyetype=16&gender=0&tert=94&tertgene=440&winggene=0&wings=97&auth=8eaa941d5ec0877be1da60e6d72869110081b3fc&dummyext=prev.png[/img]
+[gamedb item=63484]
+[emoji=cirrus size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=18&element=8&eyetype=16&gender=0&tert=94&tertgene=48&winggene=0&wings=97&auth=a55b8fafa93121a0930b929c22120ebd72c9f803&dummyext=prev.png[/img]
+[gamedb item=32560]
+[emoji=banescale size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=27&element=8&eyetype=16&gender=0&tert=94&tertgene=448&winggene=0&wings=97&auth=2168f8b8c54c60b374c5646d57b0149a6de85d9f&dummyext=prev.png[/img]
+[gamedb item=63485]
+[emoji=cirrus size=1]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=23&element=8&eyetype=16&gender=0&tert=94&tertgene=173&winggene=0&wings=97&auth=b38b7aac549ce8c01258242f4209628b96bcdc4a&dummyext=prev.png[/img]
+[gamedb item=51262]
+[emoji=aberration size=1] [emoji=dusthide size=1] [emoji=everlux size=1] [emoji=sandsurge size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=22&element=8&eyetype=16&gender=0&tert=94&tertgene=329&winggene=0&wings=97&auth=563b751a73e9be16e4971041668a18c0086d5fe8&dummyext=prev.png[/img]
+[gamedb item=59051]
+[emoji=aether size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=17&element=8&eyetype=16&gender=0&tert=94&tertgene=156&winggene=0&wings=97&auth=8e36245c4f7d872ffe9aff09f6a09a692b078692&dummyext=prev.png[/img]
+[gamedb item=50087]
+[emoji=aether size=1] [emoji=dusthide size=1] [emoji=gaoler size=1] [emoji=undertide size=1] [emoji=veilspun size=1]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=26&element=8&eyetype=16&gender=0&tert=94&tertgene=385&winggene=0&wings=97&auth=7f2c04f57f9de246984ee9d27fbc4da7697afaae&dummyext=prev.png[/img]
+[gamedb item=60220]
+[emoji=everlux size=1]
+[/center][/hidden]
+
+[center][img]https://imgur.com/e0ECICN.png[/img][/center]

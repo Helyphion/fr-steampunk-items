@@ -1,0 +1,57 @@
+[center][img]https://i.imgur.com/8AgFdvK.png[/img]
+
+[size=5][b]MATERIALS + TRINKETS[/b][/size][/center]
+
+
+[center][size=4][b]MECHANICAL PARTS[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Battered Laser Coil][item=Black Iron Segment][item=Borer Scrapmetal][item=Chrome Laser Head][item=Copper Spring][item=Coppercoil Segment][item=Copperplate Shell][item=Delver Parts][item=Golden Key][item=Iron Wrench][item=Lumen Wiring][item=Metal Spring][item=Spare Tendril][item=Titanium Wrench][item=Volt Wiring][item=Wind-Up Key][item=Copper Gear][item=Copper Pocketwatch][item=Handful of Sprockets][item=Iron Gear][item=Multi-Lens Magnifier][item=Overly-Engineered Buckler][item=Clockwork Shield][item=Silver Pocketwatch][item=Stormcatcher Scrap Metal Welding][item=Tarnished Chain][item=Rusted Chain][item=Steelhound Core][item=Sickle Claws]
+[/COLUMNS]
+
+
+[center][size=4][b]METALLIC ACCESSORIES[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Brilliant Brass Torc][item=Catfeather Loop][item=Cheerful Chime][item=Crusty Copper Pot][item=Dancer's Bell][item=Desert Diadem][item=Emerald Brooch][item=Flatlands Tiara][item=Fluted Bat Spoon][item=Forgotten Crown][item=Glittering Bluesilver Torc][item=Glittering Sphinxband][item=Mirror][item=Nickel Cat Figurine][item=Petal Bat Spoon][item=Rusted Crown][item=Slinky Band][item=Spectre Loop][item=Tarnished Cerdae Necklace][item=White Gold Cerdae Pendant][item=Rusted Iron Pot][item=Old Tin Pot][item=Chimera Relic][item=Watchful Ring][item=Rusty Pickaxe][item=Lost Crown][item=Pickaxe][item=Pulsating Pendant][item=Softly Glowing Pendant][item=Showy Bells][item=Celestial Horn]
+[/COLUMNS]
+
+[rule]
+
+[center][size=4][b]RAW METALS[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Copper Muck][item=Copper Ore][item=Corroded Iron Nugget][item=Gold Muck][item=Gold Ore][item=Iron Nugget][item=Iron Ore][item=Lead Ore][item=Nickel Ore][item=Platinum Ore][item=Rich Copper Ore][item=Rich Iron Ore][item=Rich Nickel Ore][item=Silver Muck][item=Silver Ore][item=Tin Ore][item=Fool's Gold]
+[/COLUMNS]
+
+[rule]
+
+[center][size=4][b]SCHOLARLY[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Book of Urban Legends][item=Empty Inkwell][item=Forest Field Guide][item=Forgotten Poet's Tools][item=Half-Moon Spectacles][item=Historical Text][item=Mith Lorebook][item=Mith Spellbook][item=Owlcat Journal][item=Shattered Reading Spectacles][item=Toridae Mythology][item=Weathered Grimoire][item=Aged Tome][item=Battered Book of Fables][item=Grouse Basilisk Field Notes][item=Long Form Poetry][item=Coral Basilisk Field Notes][item=Intact Parchment][item=Scroll Case][item=Tattered Canvas Scrap][item=Tattered Parchment][item=Pressed Moonflower][item=Pressed Morning Glory]
+[/COLUMNS]
+
+[rule]
+
+[center][size=4][b]LIGHTING[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Antique Oil Lamp][item=Moth Keeper's Lantern][item=Tallow Candle][item=Enchanted Candle][item=Night Flame]
+[/COLUMNS]
+
+[rule]
+
+[center][size=4][b]MISCELLANEOUS[/b][/size][/center]
+[COLUMNS]
+[color=transparent]_____[/color]
+[NEXTCOL]
+[item=Bronze Fabric Scrap][item=Coal][item=Lantern Oil][item=Reinforced Rope][item=Sturdy Wooden Beam][item=Vial of Mysterious Toxin][item=Bonepriest Venom][item=Fine Alchemical Reduction][item=Glob of Oil][item=White Linen Fabric Scrap][item=Ornate Porcelain Jar][item=Engaging Still Life][item=Unfinished Painting][item=Balanced Walking Sticks][item=Bottled Embers][item=Hourglass][item=Jar of Vapors][item=Polished Walking Sticks][item=Busted Wheel Frame][item=Third Wheel][item=Condor's Breastplate][item=Amber-trapped Fly][item=Amber-trapped Mosquito][item=Hainu Collar][item=Simple Thread][item=Spool of Silk][item=Blasting Powder][item=Unicorn Dust][item=Coarse Alchemical Reduction][item=Banded Ironstone][item=Banded Sardonyx][item=Fortification Agate][item=Amber][item=Tattered Canvas Scrap]
+[/COLUMNS]
+
+[center][img]https://i.imgur.com/e0ECICN.png[/img][/center]

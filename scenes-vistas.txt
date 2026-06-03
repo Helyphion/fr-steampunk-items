@@ -1,10 +1,13 @@
-[center][size=5][b]SCENES + VISTAS[/b][/size][/center]
+[center][size=1]nav bar here[/size]
+[img]https://imgur.com/8AgFdvK.png[/img][/center]
 
-
-[center][size=4][b]SCENES[/b][/size][/center]
-[center]
+[hidden title="SCENES"][center]
 [img]https://www1.flightrising.com/static/cms/scene/37028.png[/img]
 [gamedb item=37028]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/64726.png[/img]
+[gamedb item=64726]
 
 
 [img]https://www1.flightrising.com/static/cms/scene/35033.png[/img]
@@ -18,22 +21,85 @@
 [img]https://www1.flightrising.com/static/cms/scene/48173.png[/img]
 [gamedb item=48173]
 
-
+[rule]
 [img]https://www1.flightrising.com/static/cms/scene/46543.png[/img]
 [gamedb item=46543]
 
 
 [img]https://www1.flightrising.com/static/cms/scene/39683.png[/img]
 [gamedb item=39683]
-[/center]
+[/center][/hidden]
+[hidden title="VISTAS"]
+
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/155.png[/img]
+[center][gamedb item=47041][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/71.png[/img]
+[center][gamedb item=20807][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/152.png[/img]
+[center][gamedb item=45488][/center]
+[/COLUMNS]
+
+
+
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/103.png[/img]
+[center][gamedb item=25176][/center]
+[color=transparent]x[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/136.png[/img]
+[center][gamedb item=37364][/center]
+[color=transparent]x[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/53.png[/img]
+[left][gamedb item=19041][/left]
+[/COLUMNS]
+
+
+
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/4.png[/img]
+[center][b]Workshop Window[/b][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/5.png[/img]
+[center][b]Beta Tester[/b][/center]
+[/COLUMNS]
 
 [rule]
 
-[center][size=4][b]VISTAS[/b][/size][/center]
+
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/115.png[/img]
+[center][gamedb item=27675][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/139.png[/img]
+[center][gamedb item=38200][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/61.png[/img]
+[center][gamedb item=20454][/center]
+[/COLUMNS]
 
 
 
-vistas:
-[item=Vista: Alchemical Formula][item=Vista: Herb Rack][item=Vista: Avian Anatomy][item=Vista: Thundercrack Carnivale][item=Vista: Tinkered Clock][item=Vista: Haunted Museum][item=Vista: Hourglass][item=Vista: Grimoire][item=Vista: Treasure Map][item=Vista: Golem Workshop][item=Vista: Cartographer's Office][item=Vista: Workshop Window][item=][item=]
-maybe
-[item=Vista: Gaoler Dragons](etc) [item=Vista: Brightshine Jubilee][item=Vista: Stormcatcher][item=Vista: Spectral Shroud][item=Vista: Banshee Brooch][item=Vista: Beta Tester Vista]
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/127.png[/img]
+[center][gamedb item=32681][/center]
+[NEXTCOL]
+[img]https://www1.flightrising.com/static/cms/fvista/147.png[/img]
+[center][gamedb item=42682][/center]
+[/COLUMNS]
+[/hidden]
+
+[center][img]https://imgur.com/e0ECICN.png[/img][/center]

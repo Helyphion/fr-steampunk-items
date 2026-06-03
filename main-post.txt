@@ -1,0 +1,54 @@
+[center]
+[img]https://i.imgur.com/8AgFdvK.png[/img]
+
+[size=6][b]ALL STEAMPUNK ITEMS[/b][/size]
+
+text here
+[/center]
+
+inspired by this thread about aquatic items :P
+https://www1.flightrising.com/forums/gde/3171589
+
+this should be shorter than the list of aquatic items.. hopefully
+
+prolly just gonna split them similarly to the water thread, so:
+[s]Familiars[/s]
+[s]Materials + Trinkets[/s]
+[b]Apparel[/b]
+[s]Skins + Accents[/s] - site skins only, I only scoured the TCC ones bc I didn't feel like going through [i]all[/i] of them
+[s]Scenes + Vistas[/s]
+[s]Other[/s] (with [s]genes[/s], [s]chests,[/s] [s]battle stones(??)[/s] n stuff)
+
+I'll just assume there is no steampunk food, unless someone corrects me (mm.. cronchy gears...)
+
+hey if you found this thread and are interested in being pinged when I'm.. actually done with it, you may join this pinglist:
+[pinglist=56661]
+
+[img]https://64.media.tumblr.com/ce55d7132ec2756b62b0ade2aa14f6ad/b97b32028fcfb246-aa/s250x400/58b527724338c849e34a401de97aa410f2332c44.png[/img]
+https://www1.flightrising.com/forums/cc/3129482
+^ adorable steampunk-y kitty by dovalore that I probably want to include in this intro somewhere
+
+https://drcodegenerator.gitlab.io/toc.html
+^ for navigation bar at the top of every post (need to figure out order of categories first though)
+I think I'll want the first post (this one!) to have a big link hub in the text section instead tho, I think that makes sense
+
+[i](The following paragraph is not going to stay (in this form), it's mostly just a note to myself about how I've been choosing what to include.)[/i]
+This has been surprisingly difficult to make. Steampunk feels a lot less precisely defined than aquatic items, for example. And I'm very much using my own interpretation of the aesthetic, which leads to my choices veering too far into light academia and other similar aesthetics I also like, I think. I've also been valuing the colour scheme a lot, which leads to some mechanical things being excluded because they're not primarily brown/beige/gold/copper, and some non-mechanical items being included in my pre-selections because they are. Steampunk is also closely related to the Lightning flight on this website specifically, but far from every Lightning-related item is also steampunk. (In my opinion, anyway.) I've also been treating items with yellow or white accents as "more steampunk" than ones with blue or green ones, for example. But I'm not sure if that is actually part of the aesthetic, or just personal bias.
+I'll have to do a lot of deciding to finish this thread....
+
+dividers: https://www1.flightrising.com/forums/gde/3269012
+
+still need to mess with formatting!
+specifically if I want the banners in info posts, if I should use rules to separate subcategories or not (or possibly a custom divider?), how much space I should leave everywhere
+and I should probably use transparent images instead of transparent underscores to center the materials + items category, to make it work on different screens (I think it works that way?)
+
+I also want to manually rearrange the items in each category to list the "most steampunk" ones first, but that's low priority for now
+
+this is [i]mostly[/i] based on visuals, I'd say. so might remove some items that match by name but not visuals
+
+I wasn't going to use the new hidden tags, because of the extra visuals they add, but it might be a good idea to implement them once everything is sorted tbh. would make the thread much more navigatable possibly
+
+[color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
+[color=transparent]__[/color] [b]02/06/2025[/b] project started
+
+[center][img]https://i.imgur.com/e0ECICN.png[/img][/center]

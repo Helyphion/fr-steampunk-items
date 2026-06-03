@@ -1,4 +1,4 @@
-[center][size=1]nav bar here[/size]
+[center][size=2][url=https://www1.flightrising.com/forums/gde/3419490/1#post_3419490][b]Overview[/b][/url] // [url=https://www1.flightrising.com/forums/gde/3419490/1#post_59047753][b]Apparel[/b][/url] // [url=https://www1.flightrising.com/forums/gde/3419490/1#post_59100981][b]Familiars[/b][/url] // [b]Scenes + Vistas[/b] // [url=https://www1.flightrising.com/forums/gde/3419490/1#post_59180319][b]Skins[/b][/url] // [url=https://www1.flightrising.com/forums/gde/3419490/1#post_59180430][b]Genes[/b][/url] // [url=https://www1.flightrising.com/forums/gde/3419490/1#post_59180510][b]Miscellaneous[/b][/url][/size]
 [img]https://imgur.com/8AgFdvK.png[/img][/center]
 
 [hidden title="SCENES"][center]
@@ -51,11 +51,9 @@
 [NEXTCOL]
 [img]https://www1.flightrising.com/static/cms/fvista/103.png[/img]
 [center][gamedb item=25176][/center]
-[color=transparent]x[/color]
 [NEXTCOL]
 [img]https://www1.flightrising.com/static/cms/fvista/136.png[/img]
 [center][gamedb item=37364][/center]
-[color=transparent]x[/color]
 [NEXTCOL]
 [img]https://www1.flightrising.com/static/cms/fvista/53.png[/img]
 [left][gamedb item=19041][/left]

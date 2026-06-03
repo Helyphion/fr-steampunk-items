@@ -1,0 +1,39 @@
+[center][size=5][b]SCENES + VISTAS[/b][/size][/center]
+
+
+[center][size=4][b]SCENES[/b][/size][/center]
+[center]
+[img]https://www1.flightrising.com/static/cms/scene/37028.png[/img]
+[gamedb item=37028]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/35033.png[/img]
+[gamedb item=35033]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/45486.png[/img]
+[gamedb item=45486]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/48173.png[/img]
+[gamedb item=48173]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/46543.png[/img]
+[gamedb item=46543]
+
+
+[img]https://www1.flightrising.com/static/cms/scene/39683.png[/img]
+[gamedb item=39683]
+[/center]
+
+[rule]
+
+[center][size=4][b]VISTAS[/b][/size][/center]
+
+
+
+vistas:
+[item=Vista: Alchemical Formula][item=Vista: Herb Rack][item=Vista: Avian Anatomy][item=Vista: Thundercrack Carnivale][item=Vista: Tinkered Clock][item=Vista: Haunted Museum][item=Vista: Hourglass][item=Vista: Grimoire][item=Vista: Treasure Map][item=Vista: Golem Workshop][item=Vista: Cartographer's Office][item=Vista: Workshop Window][item=][item=]
+maybe
+[item=Vista: Gaoler Dragons](etc) [item=Vista: Brightshine Jubilee][item=Vista: Stormcatcher][item=Vista: Spectral Shroud][item=Vista: Banshee Brooch][item=Vista: Beta Tester Vista]

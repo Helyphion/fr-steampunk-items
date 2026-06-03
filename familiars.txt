@@ -1,4 +1,267 @@
-[item=Augite Protector][item=Banshee Brooch][item=Barkbound Construct][item=Black Iron Creeper][item=Bouncy Broiler][item=Brass Knocker][item=Chromefeather Lookout][item=Clattercog Engineer][item=Cog Frog][item=Coppercoil Creeper][item=Copperplate Longmech][item=Crackling Leo][item=Crane Contraption][item=Crystal Curiosity][item=Curious Parasol][item=Dirge Fiddlefiend][item=Flying Brass Key][item=Flying Iron Key][item=Flying Figurine][item=Frost Delver][item=Gearspring Pocketmouse][item=Geartoggle Smith][item=Guest Greeter][item=Hydraulic Armored Protector][item=Iron Golem][item=Jelly Drone][item=Leo][item=Livewire Grizzly][item=Midnight Coach][item=Monkey Wrench][item=Moss-Covered Golem][item=Octavious Colossusbane][item=Platewing Sphinx][item=Porcelain Pocket Fighter][item=Regal Bladebearer][item=Rogue Excavator][item=Rusty Golem][item=Sandstone Stormcatcher][item=Seething Stove][item=Sentry Squawker][item=Smoke Gyre][item=Sorcerous Arms][item=Spellbound Golem][item=Spritely Portrait][item=Steam Gyre][item=Stone Borer][item=Swift Lumen][item=Swinging Chandelier][item=Thunderback Slink][item=Tick-Tock][item=Time Devourer][item=Tribeam Lurker][item=Tricky Telescope][item=Veilspun Verse][item=Voltaic Ambassador][item=War Smith][item=Warblade Owlcat][item=Weapon Scavenger][item=Wind-Up Automaton][item=][item=][item=][item=][item=][item=][item=]
+[hidden title="idk how to sort theseee"]
+:3
+[/hidden]
 
-maybe:
-[item=Afternoon Tea][item=Albino Battlelisk][item=Amber Gulper][item=Animated Armor][item=Animated Statue][item=Armored Greatowl][item=Autumn Millifae][item=Ball-Jointed Bogsneak][item=Battleram Skirmisher][item=Black Chess Pack][item=Bloodwing Owlcat][item=Bogsneak Puppet][item=Bonepicker Archivist][item=Book Hoard][item=Book Swarm][item=Brown-Spotted Mith][item=Calculating Candelabra][item=Catty Cannon][item=Colubrid Column][item=Courageous Warhorse][item=Cryptic Cameo][item=Earth Gryphon][item=Enchanted Armaments][item=Entrapping Shackles][item=False Prince][item=Ferocious Foo][item=Furious Faun][item=Granite Thresher][item=Greattusk][item=Lesser Wisp][item=Lightning Gryphon][item=Lightning Lancer][item=Living Sculpture][item=Magic Mirror][item=Manticore's Might][item=Mechanical Destroyer][item=Miniature Sornieth Globe][item=Mistral Minion][item=Paper Beast][item=Pebblehide Stoat][item=Poltergeist Piano][item=Ponder Orb][item=Ravenous Cauldron][item=Relic Eel][item=Robotic Tender][item=Salt and Pepper][item=Satin Rambra][item=Serpentine Lamp][item=Serrated Snake][item=Silverstring Harp][item=Smoldering Sconce][item=Spirit Armor][item=Spotted Faun][item=Steelhound][item=Sugar and Spice][item=Sunbeam Soldier][item=Toxic Tonic][item=Treacherous Irons][item=Tunnel Hydra][item=Turbocharged Creeper][item=Unburdened Billy][item=Unyielding Sagittarius][item=Violent Vellum][item=Voltspire Intruder][item=Which Waychip][item=White Chess Herd][item=Wind-Up Pocketmouse][item=Writer's Aid][item=Alabaster Squirmscoot]
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/ID.png[/img]
+[gamedb item=ID][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/ID.png[/img]
+[gamedb item=ID][/center]
+[/columns]
+
+-----
+
+sphinxes
+[columns]
+[img]https://www1.flightrising.com/static/cms/familiar/art/50639.png[/img]
+[center][gamedb item=50639][/center]
+[nextcol]
+[img]https://www1.flightrising.com/static/cms/familiar/art/50637.png[/img]
+[center][gamedb item=50637][/center]
+[/columns]
+
+mech cats
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/20029.png[/img]
+[gamedb item=20029][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/20030.png[/img]
+[gamedb item=20030][/center]
+[/columns]
+
+door knockers
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/42689.png[/img]
+[gamedb item=42689][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/42690.png[/img]
+[gamedb item=42690][/center]
+[/columns]
+
+leos
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/50223.png[/img]
+[gamedb item=50223][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/35387.png[/img]
+[gamedb item=35387][/center]
+[/columns]
+
+spiders
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/7593.png[/img]
+[gamedb item=7593][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/7591.png[/img]
+[gamedb item=7591][/center]
+[/columns]
+
+mith smiths
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33202.png[/img]
+[gamedb item=33202][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33201.png[/img]
+[gamedb item=33201][/center]
+[/columns]
+
+honses
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/24136.png[/img]
+[gamedb item=24136][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/24135.png[/img]
+[gamedb item=24135][/center]
+[/columns]
+
+boilers
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/32677.png[/img]
+[gamedb item=32677][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/32676.png[/img]
+[gamedb item=32676][/center]
+[/columns]
+
+workshop bosses
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/7600.png[/img]
+[gamedb item=7600][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33442.png[/img]
+[gamedb item=33442][/center]
+[/columns]
+
+smoke things
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/413.png[/img]
+[gamedb item=413][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/406.png[/img]
+[gamedb item=406][/center]
+[/columns]
+
+keys
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/48159.png[/img]
+[gamedb item=48159][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/48160.png[/img]
+[gamedb item=48160][/center]
+[/columns]
+
+cog frog & monkey
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/760.png[/img]
+[gamedb item=760][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/15591.png[/img]
+[gamedb item=15591][/center]
+[/columns]
+
+creepy clocks
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/25173.png[/img]
+[gamedb item=25173][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/25174.png[/img]
+[gamedb item=25174][/center]
+[/columns]
+
+more miths
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/27199.png[/img]
+[gamedb item=27199][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33441.png[/img]
+[gamedb item=33441][/center]
+[/columns]
+
+violin & umbrella (kinda victorian but idk)
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/28769.png[/img]
+[gamedb item=28769][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/42691.png[/img]
+[gamedb item=42691][/center]
+[/columns]
+
+slink & bear
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/46251.png[/img]
+[gamedb item=46251][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/4927.png[/img]
+[gamedb item=4927][/center]
+[/columns]
+
+longmech & squawker
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33203.png[/img]
+[gamedb item=33203][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/11816.png[/img]
+[gamedb item=11816][/center]
+[/columns]
+
+brooch & carriage
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/32668.png[/img]
+[gamedb item=32668][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/61052.png[/img]
+[gamedb item=61052][/center]
+[/columns]
+
+telescope & chandelier
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/28762.png[/img]
+[gamedb item=28762][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/32672.png[/img]
+[gamedb item=32672][/center]
+[/columns]
+
+wind-up stuff?
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/58771.png[/img]
+[gamedb item=58771][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33306.png[/img]
+[gamedb item=33306][/center]
+[/columns]
+
+lancer & stormcatcher
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/11969.png[/img]
+[gamedb item=11969][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/40671.png[/img]
+[gamedb item=40671][/center]
+[/columns]
+
+gryphon & extra spider
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/58578.png[/img]
+[gamedb item=58578][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/33437.png[/img]
+[gamedb item=33437][/center]
+[/columns]
+
+-----
+
+arguably:
+
+chess (can I find/make a gif to show off the cycling effect?)
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/61038.png[/img]
+[gamedb item=61038][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/61037.png[/img]
+[gamedb item=61037][/center]
+[/columns]
+
+harps
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/37350.png[/img]
+[gamedb item=37350][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/37349.png[/img]
+[gamedb item=37349][/center]
+[/columns]
+
+statues
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/53713.png[/img]
+[gamedb item=53713][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/15283.png[/img]
+[gamedb item=15283][/center]
+[/columns]
+
+balls
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/53706.png[/img]
+[gamedb item=53706][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/53705.png[/img]
+[gamedb item=53705][/center]
+[/columns]
+
+painting and orb
+[columns]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/32674.png[/img]
+[gamedb item=32674][/center]
+[nextcol]
+[center][img]https://www1.flightrising.com/static/cms/familiar/art/13086.png[/img]
+[gamedb item=13086][/center]
+[/columns]
+
+[hidden]
+to be decided:
+  [img]https://www1.flightrising.com/static/cms/familiar/art/48161.png[/img]  [img]https://www1.flightrising.com/static/cms/familiar/art/33437.png[/img]  [img]https://www1.flightrising.com/static/cms/familiar/art/11219.png[/img]  [img]https://www1.flightrising.com/static/cms/familiar/art/40821.png[/img]  [img]https://www1.flightrising.com/static/cms/familiar/art/20813.png[/img]
+[/hidden]
+
+[item=Regal Bladebearer][item=Spellbound Golem]

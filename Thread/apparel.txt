@@ -1,5 +1,17 @@
 maybe:
 [columns]
+[img]https://www1.flightrising.com/dgen/dressing-room/dummy?breed=8&gender=0&skin=0&apparel=67741,67775,67763,67740,67787,67778&xt=dressing.png[/img]
+[nextcol]
+[size=2][gamedb item=67741]
+[gamedb item=67775]
+[gamedb item=67763]
+[gamedb item=67740]
+[gamedb item=67787]
+[gamedb item=67778][/size]
+[/columns]
+cozybrew winter
+
+[columns]
 [img]https://www1.flightrising.com/dgen/dressing-room/dummy?breed=8&gender=0&skin=0&apparel=18773,18789&xt=dressing.png[/img]
 [nextcol]
 [size=2][gamedb item=18773]

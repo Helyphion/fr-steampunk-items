@@ -1,0 +1,12 @@
+gonna take care of TCC skins next I think, that's relatively manageable
+(and if there are any steampunk site skins from another source somehow.. well, I hope someone else will be aware of that.)
+
+should add mannequin displays for these once the list is done
+
+group by accent / skin / full coverage?
+...I'll probably need several layers of grouping
+
+[skin=31059][skin=51331][skin=35402][skin=40656][skin=58607][skin=46248][skin=27225][skin=23591][skin=58599][skin=46250][skin=11975][skin=31056][skin=23588][skin=40652][skin=23586][skin=51317][skin=11971][skin=40654][skin=51320][skin=35396][skin=23597][skin=27220][skin=23594][skin=51326][skin=27207][skin=4930][skin=4929][skin=27217][skin=19056][skin=58595][skin=4937]
+
+maybe
+[skin=46239][skin=58598][skin=23585][skin=31058][skin=27211][skin=19049][skin=11977][skin=19055][skin=11979][skin=1492][skin=11976]

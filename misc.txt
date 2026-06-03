@@ -1,57 +1,70 @@
-miscellaneous things, woo
+[center][size=1]nav bar here[/size]
+[img]https://imgur.com/8AgFdvK.png[/img][/center]
 
-[item=Overloaded Chest]
-as a stand-in for all Lightning festival chests
+[hidden title="COLOURS"][center]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=140&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=140&auth=4a46b2286dc1c09e17ff75c3b9bec388f80c7a23&dummyext=prev.png[/img] [img]https://i.ibb.co/6cctqX5Z/metals.png[/img]
+[b]Metals[/b]
 
-[item=Waterway Pipe][item=Toolbox]
-maybe
-[item=Rusted Treasure Chest][item=Iron Treasure Chest][item=Gilded Decorative Chest]
 
-"eggs" (should banescale count?)
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=83&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=83&auth=ff584bcf4287b4d84ebef07ffe7345b8f8153071&dummyext=prev.png[/img] [img]https://i.ibb.co/Psdsc79t/bronze.png[/img]
+[b]Bronze[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=124&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=124&auth=21ab9e64573bab52714527efbc5d46904146d3a7&dummyext=prev.png[/img] [img]https://i.ibb.co/cSCPLfHb/tarnish.png[/img]
+[b]Tarnish[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=94&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=94&auth=59296bd2c148ffb5305d9d2baf1bee7bba9e958e&dummyext=prev.png[/img] [img]https://i.ibb.co/C30mwYhh/copper.png[/img]
+[b]Copper[/b]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=97&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=97&auth=46c01e2587f895f67d3cdef315877e07a36441ed&dummyext=prev.png[/img] [img]https://i.ibb.co/1G332HJ7/antique.png[/img]
+[b]Antique[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=91&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=91&auth=1a0e96c35517a9ee03edacb477ce031c65060f43&dummyext=prev.png[/img] [img]https://i.ibb.co/pv5skY9j/smoke.png[/img]
+[b]Smoke[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=8&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=8&auth=b56f1fda16b1f43a246e8368943b3f28f02d3497&dummyext=prev.png[/img] [img]https://i.ibb.co/Q72rCrV3/coal.png[/img]
+[b]Coal[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/dragon?age=1&body=70&bodygene=0&breed=8&element=8&eyetype=16&gender=0&tert=94&tertgene=0&winggene=0&wings=70&auth=2327ea841e2ab9ac9a3e87f91e53a0387f063d57&dummyext=prev.png[/img] [img]https://i.ibb.co/zhtxS7HX/oilslick.png[/img]
+[b]Oilslick[/b]
+[/center][/hidden]
+[hidden title="MISCELLANEOUS"]
+[center][size=4][b]CHESTS / OPENABLES[/b][/size][/center]
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[item=Rusted Treasure Chest][item=Iron Treasure Chest][item=Waterway Pipe][item=Toolbox][item=Overloaded Chest]
+[right][b]+ all other Thundercrack Carnivale skin chests[/b][/right]
+[/COLUMNS]
+
+
+[center][size=4][b]BATTLE STONES[/b][/size][/center]
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[item=Haste][item=Discipline][item=Field Manual][item=Scholar][item=Silverglow Meditate]
+[/COLUMNS]
+
+
+[center][size=4][b]DRAGON EGGS[/b][/size][/center]
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
 [item=Clanbound Unhatched Banescale Egg][item=Voyager's Chart (Clanbound)][item=Voyager's Map (Clanbound)]
-
-[item=Charged Sprocket]
-
-[item=Haste]
-[item=Discipline][item=Field Manual][item=Major Health Potion][item=Scholar][item=Silverglow Meditate] maybe?
-
-[item=Effect: Sheen]
+[/COLUMNS]
 
 
+[center][size=4][b]OTHER[/b][/size][/center]
+[COLUMNS]
+[color=transparent]____[/color]
+[NEXTCOL]
+[item=Charged Sprocket][item=Effect: Sheen][item=Major Health Potion]
+[/COLUMNS]
+[/hidden]
 
-genes ?
-
-not sure how I'd display these
-might or might not make sense to group with other misc things
-
-[b]definitely metallic/alloy[/b]
-[b]wasp (but not bee)[/b]
-
-
-ragged/tear ?
-rattlesnake/diamondback ??
-shell/web ????
-mmaybe wrought/spire
-
-maybe filigree
-maybe flecks
-maybe gembond
-maybe opal
-maybe scales
-maybe veined
-[b]probably angler[/b]
-[b]definitely augment[/b]
-[b]possibly deco?[/b]
-[b]probably harp[/b]
-[b]possibly mist![/b]
-ornaments?
-plating?
-scorpion?
-stinger?
-warrior?
-[b]definitely wraith[/b]
-
-tbh this preliminary list is mostly genes that [i]can[/i] work as steampunk in the right colours, but are not by any means inherently steampunk. I'll have to narrow it down a lot
-
-wait what about colours, actually? copper, bronze and tarnish are practically inherently compatible with this aesthetic.. hmm...
-antique, metals
+[center][img]https://imgur.com/e0ECICN.png[/img][/center]

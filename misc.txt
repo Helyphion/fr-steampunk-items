@@ -1,0 +1,18 @@
+miscellaneous things, woo
+
+[item=Overloaded Chest]
+as a stand-in for all Lightning festival chests
+
+[item=Waterway Pipe][item=Toolbox]
+maybe
+[item=Rusted Treasure Chest][item=Iron Treasure Chest][item=Gilded Decorative Chest]
+
+"eggs" (should banescale count?)
+[item=Clanbound Unhatched Banescale Egg][item=Voyager's Chart (Clanbound)][item=Voyager's Map (Clanbound)]
+
+[item=Charged Sprocket]
+
+[item=Haste]
+[item=Discipline][item=Field Manual][item=Major Health Potion][item=Scholar][item=Silverglow Meditate] maybe?
+
+[item=Effect: Sheen]

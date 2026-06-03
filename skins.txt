@@ -1,12 +1,184 @@
-gonna take care of TCC skins next I think, that's relatively manageable
-(and if there are any steampunk site skins from another source somehow.. well, I hope someone else will be aware of that.)
+[center][size=1]nav bar here[/size]
+[img]https://imgur.com/8AgFdvK.png[/img][/center]
 
-should add mannequin displays for these once the list is done
+[hidden title="SKINS › BELOW 50% COVERAGE"][center]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64721&auth=a712d63bf7174bb6616b69e5c8adf9e7c6dd863a&dummyext=prev.png[/img]
+[gamedb item=64721] // [b]TCC 2025[/b]
 
-group by accent / skin / full coverage?
-...I'll probably need several layers of grouping
 
-[skin=31059][skin=51331][skin=35402][skin=40656][skin=58607][skin=46248][skin=27225][skin=23591][skin=58599][skin=46250][skin=11975][skin=31056][skin=23588][skin=40652][skin=23586][skin=51317][skin=11971][skin=40654][skin=51320][skin=35396][skin=23597][skin=27220][skin=23594][skin=51326][skin=27207][skin=4930][skin=4929][skin=27217][skin=19056][skin=58595][skin=4937]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64708&auth=f25fc8201b0cb9d67f99ad120b73f39bd456c020&dummyext=prev.png[/img]
+[gamedb item=64708] // [b]TCC 2025[/b]
 
-maybe
-[skin=46239][skin=58598][skin=23585][skin=31058][skin=27211][skin=19049][skin=11977][skin=19055][skin=11979][skin=1492][skin=11976]
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64706&auth=eb6c9314244cf2c159924c233cb94d453c47816d&dummyext=prev.png[/img]
+[gamedb item=64706] // [b]TCC 2025[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=58607&auth=021040af512b7e7845189307fbf8961278eca153&dummyext=prev.png[/img]
+[gamedb item=58607] // [b]TCC 2024[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=58599&auth=72b952c9f68c0bbb71d8a2bbdc9729fa32b4fb16&dummyext=prev.png[/img]
+[gamedb item=58599] // [b]TCC 2024[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=51331&auth=cd67524b0b820318f269597b95dadc51b023ca18&dummyext=prev.png[/img]
+[gamedb item=51331] // [b]TCC 2023[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=51320&auth=38b5d33f671b861c8d64a7bd5dfa691a857255f8&dummyext=prev.png[/img]
+[gamedb item=51320] // [b]TCC 2023[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=51317&auth=b24d1e196fc70abbcb911ff3d09e374d2e71d4d1&dummyext=prev.png[/img]
+[gamedb item=51317] // [b]TCC 2023[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=46250&auth=cdaf9cf2db9e5293f36233e5cd69f23d6766a843&dummyext=prev.png[/img]
+[gamedb item=46250] // [b]TCC 2022[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=35402&auth=5559e04e6dcca8d38d078fbdbdd842487b903c75&dummyext=prev.png[/img]
+[gamedb item=35402] // [b]TCC 2020[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=31056&auth=abc969823def159261e553c389bbb04c3bd71007&dummyext=prev.png[/img]
+[gamedb item=31056] // [b]TCC 2019[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23591&auth=331bccdc016fcda3756c29095c375e6e9e482ae4&dummyext=prev.png[/img]
+[gamedb item=23591] // [b]TCC 2017[/b]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64720&auth=306370b327b43c88f7c149a3e3833fd8fb8d39dd&dummyext=prev.png[/img]
+[gamedb item=64720] // [b]TCC 2025[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=46248&auth=5f2ff4d167770582de9683a7e3e43205d44cb52e&dummyext=prev.png[/img]
+[gamedb item=46248] // [b]TCC 2022[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=46239&auth=d0e68c6cc42c194299cb332c6357b87117e3c8cd&dummyext=prev.png[/img]
+[gamedb item=46239] // [b]TCC 2022[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=40656&auth=b080eb68cbe8476a8f1a710593be7444314c160c&dummyext=prev.png[/img]
+[gamedb item=40656] // [b]TCC 2021[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=40652&auth=2ee1411a19c23c1130c6bc8416639f2fe6bcb012&dummyext=prev.png[/img]
+[gamedb item=40652] // [b]TCC 2021[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=40654&auth=f62ec62c5d702d653f0d92e3b022799f005911df&dummyext=prev.png[/img]
+[gamedb item=40654] // [b]TCC 2021[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=31059&auth=cbe5f5b68766ccfdf2ddd9a5437d88e0e8228706&dummyext=prev.png[/img]
+[gamedb item=31059] // [b]TCC 2019[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=27211&auth=b010fb5881cd60de0ac2e41dd42792e62e411422&dummyext=prev.png[/img]
+[gamedb item=27211] // [b]TCC 2018[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=27225&auth=c9fa03dabd5ca4e1dfb3f42fbeeea13e50db3948&dummyext=prev.png[/img]
+[gamedb item=27225] // [b]TCC 2018[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23585&auth=bd0efa2a5aa020c598b73749f7295abbcea9b74d&dummyext=prev.png[/img]
+[gamedb item=23585] // [b]TCC 2017[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23586&auth=2d2536c65c20e0e0dc82f12949472b571ffb7844&dummyext=prev.png[/img]
+[gamedb item=23586] // [b]TCC 2017[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23588&auth=9af205d2d8a7566cf3dbf6fc4ede9f80f8690c3e&dummyext=prev.png[/img]
+[gamedb item=23588] // [b]TCC 2017[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=19049&auth=26983f3331384866781bbfbb1e1cceb56ce47597&dummyext=prev.png[/img]
+[gamedb item=19049] // [b]TCC 2016[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=11971&auth=8757a9e10032de465ccd845eb93589c50d7167e8&dummyext=prev.png[/img]
+[gamedb item=11971] // [b]TCC 2015[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=11975&auth=4cc1ec51eae26d8f19265270a0ee2fa2d143adc5&dummyext=prev.png[/img]
+[gamedb item=11975] // [b]TCC 2015[/b]
+[/center][/hidden]
+[hidden title="SKINS › BELOW 100% COVERAGE"][center]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64714&auth=60054548f328e81714c8a5c5b5899816d2b07f6d&dummyext=prev.png[/img]
+[gamedb item=64714] // [b]TCC 2025[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64715&auth=39358a04199627deebf2f2483290c874f0df10f4&dummyext=prev.png[/img]
+[gamedb item=64715] // [b]TCC 2025[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64723&auth=d79dec51dd1024c533f1fe92bc41bbc83e8381c2&dummyext=prev.png[/img]
+[gamedb item=64723] // [b]TCC 2025[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=58595&auth=27d6e2ab6d2a517424f8a2101a21095ed35cde07&dummyext=prev.png[/img]
+[gamedb item=58595] // [b]TCC 2024[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=35396&auth=b40f11ca1b0f48703f6ae3bc34a797fb9a320c59&dummyext=prev.png[/img]
+[gamedb item=35396] // [b]TCC 2020[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=27217&auth=31cec6369503b222514813676d547a8351537775&dummyext=prev.png[/img]
+[gamedb item=27217] // [b]TCC 2018[/b]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=51326&auth=0b62fe8841e33de057b83aafae8c7fe0dd2e5ff0&dummyext=prev.png[/img]
+[gamedb item=51326] // [b]TCC 2023[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=27207&auth=4d906018af662ef8a7137b4607a1c88f9c17fa27&dummyext=prev.png[/img]
+[gamedb item=27207] // [b]TCC 2018[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23594&auth=eb2a87bb1d05184452b1fcc4f4b0ceff0ff8e2b4&dummyext=prev.png[/img]
+[gamedb item=23594] // [b]TCC 2017[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=19056&auth=e84d79f568fb91ccf43a4efc79dedef3ac32c3bd&dummyext=prev.png[/img]
+[gamedb item=19056] // [b]TCC 2016[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=11976&auth=c9b76121f95fc8b436a66eb7c4f5c674f6afb4c7&dummyext=prev.png[/img]
+[gamedb item=11976] // [b]TCC 2015[/b]
+[/center][/hidden]
+[hidden title="SKINS › FULL COVERAGE"][center]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=27220&auth=95e627d99944cb5ce946873df0b21ce06341fe96&dummyext=prev.png[/img]
+[gamedb item=27220] // [b]TCC 2018[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=23597&auth=af19b69a52b356281dc84c45ca2dcd0fac12a647&dummyext=prev.png[/img]
+[gamedb item=23597] // [b]TCC 2017[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=4937&auth=f7c26cfcaa985d0ee198ebc6a2aad59b236e8747&dummyext=prev.png[/img]
+[gamedb item=4937] // [b]TCC 2014[/b]
+
+[rule]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=19055&auth=1d442cd3d60d3d957c454a24bcd8f7147b3b8c4e&dummyext=prev.png[/img]
+[gamedb item=19055] // [b]TCC 2016[/b]
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=4930&auth=1d146431d0f2e95b11dea9e2f9e9b690ab176c3e&dummyext=prev.png[/img]
+[gamedb item=4930] // [b]TCC 2014[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=4929&auth=b4b3c1592e235236d366cccf91929793745fd727&dummyext=prev.png[/img]
+[gamedb item=4929] // [b]TCC 2014[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=1492&auth=41437143d13a7230e74fa071cb817d2cfc7738e7&dummyext=prev.png[/img]
+[gamedb item=1492] // [b]TCC 2013[/b]
+[/center][/hidden]
+
+[center][img]https://imgur.com/e0ECICN.png[/img][/center]

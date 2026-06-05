@@ -38,4 +38,11 @@ This list is likely not comprehensive, and purely based on my own perception of 
 [color=transparent]__[/color] [b]»[/b] genes section made referencing [url=https://www1.flightrising.com/clan-profile/235197][b]Shisa[/b][/url]'s [url=https://www1.flightrising.com/forums/gde/2973903]Comprehensive Gene Guide[/url]
 
 
+[hidden title="In case this thread appears to be abandoned:"]I'm not the most reliable person, so in case I do ever drop off this site entirely¹, you're welcome to start up your own continuation of this thread. You may copy and freely modify my BBCode, info texts, spreadsheets, scripts, badges, assets, and whatever else I might have created for this project. If there are any parts credited to someone else (that aren't from a collection of free-to-use stuff), I'd appreciate if you contacted that person about it first before reusing it.
+I'd also appreciate if you credited me in your thread in some way (it's not mandatory, but it would make me happy), and if you could send me a PM with a link to your thread, so I can check it out in case I do return eventually!
+
+¹ What counts as "dropping off the site entirely" is kind of up to interpretation, but my definition would be if I have not made any forum posts in three months and can't be reached via PM.
+
+
+Most things I've made for this project can be found in the [url=https://github.com/Helyphion/fr-steampunk-items]GitHub repository[/url],[/hidden]
 [center][img]https://i.imgur.com/e0ECICN.png[/img][/center]

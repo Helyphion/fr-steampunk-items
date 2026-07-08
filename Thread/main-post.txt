@@ -7,6 +7,7 @@
 I quite enjoy the steampunk aesthetic (at this point I have a [url=https://www1.flightrising.com/den/676173/2460600]den tab[/url] for dragons based on it), but have been having a hard time remembering which apparel sets and scenes go well with it. So I started making an informal list, primarily for my own convenience, and decided to turn it into a proper public resource, encompassing all categories of items, after coming across [url=https://www1.flightrising.com/clan-profile/349527]Tidepools[/url]' [url=https://www1.flightrising.com/forums/gde/3171589]All Aquatic Items[/url] thread.
 
 This list is likely not comprehensive, and purely based on my own perception of what classifies as "steampunk" – that said, you are absolutely welcome to comment in this thread (or send me a PM) if you disagree with the inclusion of an item, or want to suggest an item to be added. There's a good chance I just missed some things while going through the database. [emoji=new friend size=1]
+(Do note that for skins I'm currently only including site skins in the list, since I don't know how to get even close to a comprehensive list of UMAs that fit this aesthetic.)
 
 
 
@@ -25,7 +26,8 @@ This list is likely not comprehensive, and purely based on my own perception of 
 [center][pinglist=56661][/center]
 
 [color=transparent]_[/color] [size=5][b]CHANGELOG[/b][/size]
-[color=transparent]__[/color] [b]03/06/2026[/b] thread finished!
+[color=transparent]__[/color] [b]08/07/2026[/b] [gamedb item=37184], [gamedb item=65036], [gamedb item=65062] & Valiant Scale set added
+[color=transparent]__[/color] [size=2][b]03/06/2026[/b] thread finished![/size]
 [color=transparent]__[/color] [size=2][b]02/06/2025[/b] project started[/size]
 
 

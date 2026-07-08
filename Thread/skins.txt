@@ -2,6 +2,14 @@
 [img]https://imgur.com/8AgFdvK.png[/img][/center]
 
 [hidden title="SKINS › BELOW 50% COVERAGE"][center]
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=37184&auth=bc5ea939cbd07aa695d0d90629421f717cb31161&dummyext=prev.png[/img]
+[gamedb item=37184] // [b]Coli[/b]
+
+
+[img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=65036&auth=fd93667f9becd22455d0ddde7b447626cfc3db74&dummyext=prev.png[/img]
+[gamedb item=65036] // [b]FFF 2025[/b]
+
+
 [img]https://www1.flightrising.com/dgen/preview/skin/dummy?itemid=64721&auth=a712d63bf7174bb6616b69e5c8adf9e7c6dd863a&dummyext=prev.png[/img]
 [gamedb item=64721] // [b]TCC 2025[/b]
 

@@ -542,7 +542,7 @@
 [COLUMNS]
 [color=transparent]____[/color]
 [NEXTCOL]
-[item=Brown Plaid Cabbie][item=White and Gold Flair Scarf][item=Blue and Brown Flair Scarf][item=Brown Satin Tunic][item=Unlucky Gambeson][item=Sepia Rose Thorn Gloves][item=Sepia Rose Thorn Stockings][item=Scout's Gloves][item=Scout's Treads][item=Golden Gauntlets][item=Surgestream Coat][item=Powerpack Coat][item=Moss Agate Platemail][item=Highland Scavenger][item=Mesa Mechanojets]
+[item=Brown Plaid Cabbie][item=White and Gold Flair Scarf][item=Blue and Brown Flair Scarf][item=Brown Satin Tunic][item=Unlucky Gambeson][item=Sepia Rose Thorn Gloves][item=Sepia Rose Thorn Stockings][item=Scout's Gloves][item=Scout's Treads][item=Golden Gauntlets][item=Surgestream Coat][item=Powerpack Coat][item=Moss Agate Platemail][item=Highland Scavenger][item=Mesa Mechanojets][item=Cinderslag Plate]
 [/COLUMNS]
 
 
